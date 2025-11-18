@@ -1,0 +1,11 @@
+input{
+  display: inline-block;
+  height: 40px;
+  width: 250px;
+  border-radius: 12px;
+}
+.search{
+  background-color: rgb(238, 238, 212);
+  border: 1px solid black;
+}
+.clickable { cursor: pointer; user-select: none; }

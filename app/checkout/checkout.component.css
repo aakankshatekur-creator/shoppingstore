@@ -1,0 +1,14 @@
+
+p{
+  color: red;
+}
+h1{
+  color: rgb(26, 97, 97);
+}
+label{
+  color: rgb(23, 70, 88);
+}
+button{
+  background-color: rgb(26, 97, 97);
+  border: rgb(212, 219, 221) solid 3px;
+}
